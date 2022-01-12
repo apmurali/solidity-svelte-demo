@@ -1,0 +1,1 @@
+const HelloContract = artifacts.require('Hello');
